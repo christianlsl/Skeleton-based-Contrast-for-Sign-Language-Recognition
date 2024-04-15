@@ -1,0 +1,5 @@
+work_dir/
+.idea/
+software/
+__pycache__/
+AlphaPose/
